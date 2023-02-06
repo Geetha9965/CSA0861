@@ -1,7 +1,0 @@
-numbers = [5,7,9,66,74]
-
-for i in range(len(numbers)):
-    if i == 0:
-        print(numbers[i])
-    else:
-        print(numbers[i - 1] + numbers[i]
